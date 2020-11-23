@@ -105,9 +105,13 @@ a{
 li{
   list-style: none;
 }
-img{
+.navbar-brand > img{
   width: 100px;
+  position: absolute;
+  top: 100px;
+  left: 50px;
 }
+
 a:hover{
   text-decoration: none;
 }
