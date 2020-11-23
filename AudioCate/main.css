@@ -106,10 +106,11 @@ li{
   list-style: none;
 }
 .navbar-brand > img{
-  width: 100px;
+  width: 75px;
   position: absolute;
   top: 5px;
-  left: 5px;
+  left: -5px;
+   z-index: 2;
 }
 
 a:hover{
