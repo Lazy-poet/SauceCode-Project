@@ -1,0 +1,1 @@
+document.getElementById('footer').innerHTML = '&copy;SAUCECODE TEAM GREEN ' + new Date().getFullYear() + '.';
